@@ -15,6 +15,9 @@ clone down the project. Navigate to main directory. From the command line start 
 ## Usage
 Create and delete notes once application is up and running.
 
+## Images
+![image](https://user-images.githubusercontent.com/82545902/125541157-98bcffa1-cc97-484a-b8e9-2319e92a472c.png)
+
 ## Credits
 NA
 
